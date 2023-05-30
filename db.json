@@ -29,7 +29,7 @@
       "Autor": "George R. R. Martin",
       "Descricao": "A Guerra dos Tronos é o primeiro livro da série de fantasia épica As Crônicas de Gelo e Fogo.",
       "Quantidade": 10,
-      "Imagem": ""
+      "Imagem": "https://example.com/livro1.jpg"
     },
     {
       "Id": 2,
@@ -37,7 +37,7 @@
       "Autor": "J. R. R. Tolkien",
       "Descricao": "O Senhor dos Anéis é uma trilogia de livros de alta fantasia escrita pelo autor britânico J. R. R. Tolkien.",
       "Quantidade": 5,
-      "Imagem": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_5c8162272a5011bedc970a3ccb2dc14a88608105.jpg"
+      "Imagem": "https://example.com/livro2.jpg"
     },
     {
       "Id": 3,
@@ -45,7 +45,7 @@
       "Autor": "J. K. Rowling",
       "Descricao": "Harry Potter e a Pedra Filosofal é o primeiro livro da série Harry Potter, que narra as aventuras do jovem bruxo Harry Potter.",
       "Quantidade": 8,
-      "Imagem": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_ab355bb2f36f0963840e2fef0ed466f4.jpg"
+      "Imagem": "https://example.com/livro3.jpg"
     }
   ]
 }
