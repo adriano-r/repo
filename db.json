@@ -1,16 +1,25 @@
 {
   "usuario": [
     {
-      "id": 0,
-      "nome": "Joao"
+      "Id": 0,
+      "Nome": "Don",
+      "Sobrenome": "Vito Corleone",
+      "Email": "coleone@gm.com",
+      "Avatar": "https://fms.wustl.edu/files/fms/Events/godfather.png"
     },
     {
-      "id": 1,
-      "nome": "Don"
+      "Id": 1,
+      "Nome": "Al",
+      "Sobrenome": "Capone",
+      "Email": "al@gm.com",
+      "Avatar": "https://example.com/avatar1.png"
     },
     {
-      "id": 2,
-      "nome": "Vito"
+      "Id": 2,
+      "Nome": "Hyman",
+      "Sobrenome": "Roth",
+      "Email": "rh@gm.com",
+      "Avatar": "https://example.com/avatar2.png"
     }
   ]
 }
