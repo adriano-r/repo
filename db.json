@@ -1,8 +1,7 @@
 {
   "usuario": [
     {
-      "id": 0,
-      "nome": "Joao"
+      {"id": 0,"nome": "Joao"}
     },
     {
       "nome": "Don",
