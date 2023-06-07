@@ -12,14 +12,14 @@
       "Nome": "Al",
       "Sobrenome": "Capone",
       "Email": "al@gm.com",
-      "Avatar": ""
+      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4llwMp0z54VGBnAE_S6jHCJawQmUtUGayTABFTdY&s"
     },
     {
       "Id": 2,
       "Nome": "Hyman",
       "Sobrenome": "Roth",
       "Email": "rh@gm.com",
-      "Avatar": ""
+      "Avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Breezeicons-actions-22-im-user.svg/1200px-Breezeicons-actions-22-im-user.svg.png"
     }
   ],
   "livros": [
