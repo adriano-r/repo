@@ -1,5 +1,5 @@
-{
- "usuarios": [
+[
+  "usuarios": [
     {
       "Id": 1,
       "Nome": "Don",
@@ -49,4 +49,4 @@
      "Imagem": "https://example.com/livro3.jpg"
     }
   ]
-}
+]
