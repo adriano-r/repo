@@ -1,52 +1,52 @@
 {
   "usuarios": [
     {
-      "Id": 1,
-      "Nome": "Don",
-      "Sobrenome": "Vito Corleone",
-      "Email": "coleone@gm.com",
-      "Avatar": "https://fms.wustl.edu/files/fms/Events/godfather.png"
+      "id": 1,
+      "nome": "Don",
+      "sobrenome": "Vito Corleone",
+      "email": "coleone@gm.com",
+      "avatar": "https://fms.wustl.edu/files/fms/Events/godfather.png"
     },
     {
-      "Id": 2,
-      "Nome": "Al",
-      "Sobrenome": "Capone",
-      "Email": "al@gm.com",
-      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4llwMp0z54VGBnAE_S6jHCJawQmUtUGayTABFTdY&s"
+      "id": 2,
+      "nome": "Al",
+      "sobrenome": "Capone",
+      "email": "al@gm.com",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4llwMp0z54VGBnAE_S6jHCJawQmUtUGayTABFTdY&s"
     },
     {
-      "Id": 3,
-      "Nome": "Arnold",
-      "Sobrenome": "Rothstein",
-      "Email": "rh@gm.com",
-      "Avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Breezeicons-actions-22-im-user.svg/1200px-Breezeicons-actions-22-im-user.svg.png"
+      "id": 3,
+      "nome": "Arnold",
+      "sobrenome": "Rothstein",
+      "email": "rh@gm.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Breezeicons-actions-22-im-user.svg/1200px-Breezeicons-actions-22-im-user.svg.png"
     }
   ],
  
   "livros": [
     {
-     "Id": 1,
-     "Titulo": "A Guerra dos Tronos",
-     "Autor": "George R. R. Martin", 
-     "Descricao": "A Guerra dos Tronos é o primeiro livro da série de fantasia épica As Crônicas de Gelo e Fogo.",
-     "Quantidade": 10, 
-     "Imagem": "https://example.com/livro1.jpg"
+     "id": 1,
+     "titulo": "A Guerra dos Tronos",
+     "autor": "George R. R. Martin", 
+     "descricao": "A Guerra dos Tronos é o primeiro livro da série de fantasia épica As Crônicas de Gelo e Fogo.",
+     "quantidade": 10, 
+     "imagem": "https://example.com/livro1.jpg"
     },
     {
-     "Id": 2,
-     "Titulo": "O Senhor dos Anéis",
-     "Autor": "J. R. R. Tolkien", 
-     "Descricao": "O Senhor dos Anéis é uma trilogia de livros de alta fantasia escrita pelo autor britânico J. R. R. Tolkien.", 
-     "Quantidade": 5,
-     "Imagem": "https://example.com/livro2.jpg"
+     "id": 2,
+     "titulo": "O Senhor dos Anéis",
+     "autor": "J. R. R. Tolkien", 
+     "descricao": "O Senhor dos Anéis é uma trilogia de livros de alta fantasia escrita pelo autor britânico J. R. R. Tolkien.", 
+     "quantidade": 5,
+     "imagem": "https://example.com/livro2.jpg"
     },
     {
-     "Id": 3,
-     "Titulo": "Harry Potter e a Pedra Filosofal", 
-     "Autor": "J. K. Rowling", 
-     "Descricao": "Harry Potter e a Pedra Filosofal é o primeiro livro da série Harry Potter, que narra as aventuras do jovem bruxo Harry Potter.",
-     "Quantidade": 8,
-     "Imagem": "https://example.com/livro3.jpg"
+     "id": 3,
+     "titulo": "Harry Potter e a Pedra Filosofal", 
+     "autor": "J. K. Rowling", 
+     "descricao": "Harry Potter e a Pedra Filosofal é o primeiro livro da série Harry Potter, que narra as aventuras do jovem bruxo Harry Potter.",
+     "quantidade": 8,
+     "imagem": "https://example.com/livro3.jpg"
     }
   ]
 }
