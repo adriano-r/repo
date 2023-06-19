@@ -170,7 +170,7 @@
       "autor": "George Orwell",
       "descricao": "A Revolução dos Bichos é uma sátira política escrita por George Orwell.",
       "quantidade": 4,
-      "imagem": "https://example.com/livro10.jpg"
+      "imagem": "https://example.com/livro10.jpg",
       "avatar": "https://example.com/avatar10.png",
       "senha": "123"
     }
